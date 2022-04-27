@@ -1,0 +1,5 @@
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\NoSleep.exe
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\NoSleep.dll
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\NoSleep.deps.json
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\NoSleep.runtimeconfig.json
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\NoSleep.pdb

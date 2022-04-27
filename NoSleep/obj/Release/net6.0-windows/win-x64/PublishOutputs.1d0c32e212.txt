@@ -1,0 +1,2 @@
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\win-x64\NoSleep.pdb
+D:\Source\FPT\NoSleep\NoSleep\bin\Release\net6.0-windows\publish\win-x64\NoSleep.exe
